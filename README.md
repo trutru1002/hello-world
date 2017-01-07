@@ -1,2 +1,5 @@
 # hello-world
-The first file iIve made to practice using Github
+This is the first file I have made to practice using Github
+
+
+Testing for merging.
